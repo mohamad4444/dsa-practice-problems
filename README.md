@@ -2,15 +2,59 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🤖 AI Usage Disclosure
-The code in this repository is **100% human-authored** and was written entirely by hand in 2024 and 2025 as part of my continuous learning process. AI was only used on August 23, 2026, exclusively to format and generate this professional `README.md` file.
+A Java workspace for data structures, algorithms, and interview-style exercises from
+LeetCode, GeeksForGeeks, CodeWars, AfterAcademy, and other sites. It retains the original
+standalone attempts while providing a Maven-backed home for newly imported LeetCode work.
 
-A collection of algorithms, data structures, and coding challenges implemented in Java. This repository serves as a personal knowledge base and practice ground for technical interviews and competitive programming.
+## Repository map
 
-## 📚 Contents
-- Data Structures (Arrays, Linked Lists, Trees, Graphs)
-- Algorithms (Sorting, Searching, Dynamic Programming)
-- Common Interview Questions
+| Location | Purpose |
+| --- | --- |
+| `AfterAcademy/`, `CodeWars/`, `GeekForGeeks/`, `Other Sites/` | Standalone exercises from other platforms. |
+| `leetcode-importer/` | Clipboard importer and its implementation notes. |
+| `leetcode/` | The canonical home for **all** LeetCode problems: one `problemNN/` package per problem, with a solution, runner, and README. |
+| `Docs/` | Reusable DSA notes, solving workflow, and the solution inventory. |
 
-## 🚀 How to Run
-Most problems are implemented as standalone Java classes with a `main` method or accompanied by JUnit tests. You can run them directly in your preferred IDE (IntelliJ IDEA, Eclipse, VS Code).
+## LeetCode importer
+
+Copy a LeetCode Java `class Solution` to your clipboard, then run from this repository’s
+top directory:
+
+```bash
+make leetcode 168
+make leetcode 168-2       # alternative implementation
+make leetcode PROBLEM=168 OVERWRITE=1
+```
+
+The importer reads the clipboard through `xclip`, `wl-paste`, or Tkinter; fetches public
+LeetCode metadata when available; and creates the package, solution, runner, and
+problem README under `leetcode/src/main/java/com/github/mohamad4444/`.
+See [the importer guide](leetcode-importer/README.md) for details.
+
+## Build and status
+
+JDK 25 is configured for the Maven module. Compile its production sources with:
+
+```bash
+make check
+```
+
+The check is currently expected to fail because [#89 Gray Code](Docs/solution-status.md)
+is intentionally unfinished. The full inventory, including started-but-not-finished
+problems, is in [Docs/solution-status.md](Docs/solution-status.md).
+
+## Learning notes
+
+Use [Docs](Docs/README.md) for pattern explanations, Java templates, complexity notes,
+and solution write-ups that apply across multiple problems. The initial
+[problem-solving workflow](Docs/problem-solving.md) provides the preferred note format.
+
+## AI disclosure
+
+The original standalone practice solutions were written by hand in 2024 and 2025. Their
+documentation was reformatted with AI assistance on August 23, 2026. The importer,
+generated runners, and repository documentation may include AI-assisted work.
+
+## Resources
+
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)

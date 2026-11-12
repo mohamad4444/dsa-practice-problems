@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "id": "3d22171c-c6e3-416c-8150-bfcac58d6936",
+  "created": "2026-11-09T07:49:03.603972+00:00",
+  "original_path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/Leetcode",
+  "current_path": "/run/media/aaa/NEW VOLUME/004projects/MC-Leetcode",
+  "tags": [
+    "exercises",
+    "java",
+    "lab",
+    "project",
+    "python"
+  ],
+  "metadata": {
+    "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+    "relative_path": "MC-Leetcode",
+    "category_path": [
+      "StudyLabs",
+      "Java"
+    ],
+    "kind": "project",
+    "original_relative_path": "StudyLabs/Java/Leetcode",
+    "organization_prefix": "MC",
+    "layout": "flat"
+  },
+  "views": {
+    "original": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/Leetcode",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project",
+        "python"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/Leetcode",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project"
+      },
+      "settings": {},
+      "saved_at": "2026-11-09T07:49:03.604026+00:00"
+    },
+    "categorized": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/Leetcode",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project",
+        "python"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/Leetcode",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project"
+      },
+      "settings": {
+        "layout": "categorized",
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/Leetcode",
+        "groups": [
+          "StudyLabs",
+          "Java"
+        ],
+        "sort_by": "name"
+      },
+      "saved_at": "2026-11-09T07:49:03.612556+00:00"
+    },
+    "flat": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/MC-Leetcode",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project",
+        "python"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "MC-Leetcode",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project",
+        "original_relative_path": "StudyLabs/Java/Leetcode",
+        "organization_prefix": "MC",
+        "layout": "flat"
+      },
+      "settings": {
+        "layout": "flat",
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "MC-Leetcode",
+        "prefix": "MC",
+        "sort_by": "name"
+      },
+      "saved_at": "2026-11-09T08:06:07.207836+00:00"
+    }
+  },
+  "view_settings": {
+    "layout": "flat",
+    "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+    "relative_path": "MC-Leetcode",
+    "prefix": "MC",
+    "sort_by": "name"
+  },
+  "path_history": [
+    {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/Leetcode",
+      "recorded_at": "2026-11-09T07:49:03.603972+00:00"
+    },
+    {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/MC-Leetcode",
+      "recorded_at": "2026-11-09T08:06:05.749098+00:00"
+    }
+  ],
+  "tag_history": [
+    {
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project",
+        "python"
+      ],
+      "recorded_at": "2026-11-09T07:49:03.603972+00:00"
+    }
+  ],
+  "active_view": "flat",
+  "updated": "2026-11-09T08:06:07.207730+00:00"
+}

@@ -1,6 +1,135 @@
 {
+  "schema_version": 2,
+  "id": "616c7326-c867-48fd-b295-1643db463c3b",
+  "created": "2026-11-09T07:49:03.761353+00:00",
+  "original_path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/java-practice-problems_git",
+  "current_path": "/run/media/aaa/NEW VOLUME/004projects/MC-java-practice-problems_git",
   "tags": [
-    "dsa"
+    "exercises",
+    "java",
+    "lab",
+    "project"
   ],
-  "updated": "2026-08-01T20:50:22.531865+00:00"
+  "metadata": {
+    "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+    "relative_path": "MC-java-practice-problems_git",
+    "category_path": [
+      "StudyLabs",
+      "Java"
+    ],
+    "kind": "project",
+    "original_relative_path": "StudyLabs/Java/java-practice-problems_git",
+    "organization_prefix": "MC",
+    "layout": "flat"
+  },
+  "views": {
+    "original": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/java-practice-problems_git",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/java-practice-problems_git",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project"
+      },
+      "settings": {},
+      "saved_at": "2026-11-09T07:49:03.761458+00:00"
+    },
+    "categorized": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/java-practice-problems_git",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/java-practice-problems_git",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project"
+      },
+      "settings": {
+        "layout": "categorized",
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "StudyLabs/Java/java-practice-problems_git",
+        "groups": [
+          "StudyLabs",
+          "Java"
+        ],
+        "sort_by": "name"
+      },
+      "saved_at": "2026-11-09T07:49:03.771394+00:00"
+    },
+    "flat": {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/MC-java-practice-problems_git",
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project"
+      ],
+      "metadata": {
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "MC-java-practice-problems_git",
+        "category_path": [
+          "StudyLabs",
+          "Java"
+        ],
+        "kind": "project",
+        "original_relative_path": "StudyLabs/Java/java-practice-problems_git",
+        "organization_prefix": "MC",
+        "layout": "flat"
+      },
+      "settings": {
+        "layout": "flat",
+        "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+        "relative_path": "MC-java-practice-problems_git",
+        "prefix": "MC",
+        "sort_by": "name"
+      },
+      "saved_at": "2026-11-09T08:06:07.619977+00:00"
+    }
+  },
+  "view_settings": {
+    "layout": "flat",
+    "workspace_root": "/run/media/aaa/NEW VOLUME/004projects",
+    "relative_path": "MC-java-practice-problems_git",
+    "prefix": "MC",
+    "sort_by": "name"
+  },
+  "path_history": [
+    {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/StudyLabs/Java/java-practice-problems_git",
+      "recorded_at": "2026-11-09T07:49:03.761353+00:00"
+    },
+    {
+      "path": "/run/media/aaa/NEW VOLUME/004projects/MC-java-practice-problems_git",
+      "recorded_at": "2026-11-09T08:06:05.681060+00:00"
+    }
+  ],
+  "tag_history": [
+    {
+      "tags": [
+        "exercises",
+        "java",
+        "lab",
+        "project"
+      ],
+      "recorded_at": "2026-11-09T07:49:03.761353+00:00"
+    }
+  ],
+  "active_view": "flat",
+  "updated": "2026-11-09T08:06:07.619875+00:00"
 }
