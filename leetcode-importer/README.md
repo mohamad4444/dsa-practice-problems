@@ -33,6 +33,9 @@ Creates:
 - `Solution_2.java` (`public class Solution_2`)
 - `Main_2.java` (`public class Main_2`)
 
+Track each problem’s solution count and studied checkbox in the
+[learning checklist](../Docs/learning-progress.md). Update the table after importing.
+
 ---
 
 ## 📁 Standard Problem Package Structure

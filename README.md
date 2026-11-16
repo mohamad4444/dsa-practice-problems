@@ -33,15 +33,18 @@ See [the importer guide](leetcode-importer/README.md) for details.
 
 ## Build and status
 
+Use the [learning checklist](Docs/learning-progress.md) to track each problem’s
+number of solutions and whether you have studied it. Edit the table directly.
+
 JDK 25 is configured for the Maven module. Compile its production sources with:
 
 ```bash
 make check
 ```
 
-The check is currently expected to fail because [#89 Gray Code](Docs/solution-status.md)
-is intentionally unfinished. The full inventory, including started-but-not-finished
-problems, is in [Docs/solution-status.md](Docs/solution-status.md).
+Compilation succeeds, but some implementations are still unfinished placeholders.
+The inventory, including started-but-not-finished problems, is in
+[Docs/solution-status.md](Docs/solution-status.md).
 
 ## Learning notes
 

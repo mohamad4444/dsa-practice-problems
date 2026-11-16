@@ -8,6 +8,7 @@ solutions in `leetcode/src/main/java/.../problemXXX/README.md`.
 
 - [Problem-solving workflow](problem-solving.md) — a repeatable way to move from prompt to a verified solution.
 - [Solution status](solution-status.md) — inventory of the exercises currently in this repository.
+- [Learning checklist](learning-progress.md) — one row per problem, with solution counts and a studied checkbox.
 
 ## Suggested topic structure
 
