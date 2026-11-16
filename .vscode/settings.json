@@ -1,4 +1,11 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true,
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.debug.settings.onBuildFailureProceed": false,
+    "java.debug.settings.console": "internalConsole",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "code-runner.executorMap": {
+        "java": "run-java $fullFileName"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true
 }
