@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.github.mohamad4444.problem16.Main",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.github.mohamad4444.problem15.Main",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
             "name": "Debug current Main (pause at entry)",
             "request": "launch",
             "mainClass": "${file}",
